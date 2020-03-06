@@ -1,0 +1,15 @@
+wilder@wilder-ThinkPad-T440p:~/git_sharezza-social/sharezza-social$ git add -A
+wilder@wilder-ThinkPad-T440p:~/git_sharezza-social/sharezza-social$ git commit -m "j'ai changé le title et ajouté un H1."
+[master a0bb3d0] j'ai changé le title et ajouté un H1.
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+wilder@wilder-ThinkPad-T440p:~/git_sharezza-social/sharezza-social$ git push origin master
+Username for 'https://github.com': thomas37000
+Password for 'https://thomas37000@github.com': 
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 338 bytes | 338.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/thomas37000/sharezza-social.git
+   10be45e..a0bb3d0  master -> master
